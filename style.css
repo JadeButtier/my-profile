@@ -7,7 +7,7 @@ body {
 }
 
 h1, h2, h3{
-    font-family; Helvetica Neue;
+    font-family: Helvetica Neue;
     color: #1b133f;
 }
 
@@ -19,9 +19,9 @@ ul{
     padding: 0;
 }
 
-#cta-simple{
+#cta-simple¶{
     text-decoration: none;
-    color; #6d49ff;
+    color: #6d49ff;
     font-size: 15px;
     font-weight: bold;
     transition: 0.3s;
